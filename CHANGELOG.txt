@@ -1,5 +1,9 @@
 Change Log
 ============
+0.1.4 (10/01/2022)
+ — — — — — — — — — -
+- Update class name and README.
+
 0.1.3 (10/01/2022)
  — — — — — — — — — -
 - Fix a bug about "he or she".

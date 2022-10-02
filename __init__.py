@@ -1,1 +1,1 @@
-from degender_pronoun import degenderer
+from degender_pronoun import degenderizer

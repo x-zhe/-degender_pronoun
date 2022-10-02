@@ -11,7 +11,7 @@ with open("README.md", "r", encoding='utf-8') as f:
 
 setup(
     name="degender_pronoun",
-    version="0.1.3",
+    version="0.1.4",
     description="Replace gender pronouns in a given text with gender-neutral pronouns.",
     long_description=long_description,
     url="",

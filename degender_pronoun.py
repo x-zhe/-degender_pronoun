@@ -1,6 +1,6 @@
 from string import punctuation
 
-class degenderer():
+class degenderizer():
     def __init__(self):
         # Lists with words that frequently follow possesive pronouns. 
         # punctuations
