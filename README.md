@@ -33,7 +33,7 @@ D.getDictionary()
     ['they', 'them', 'their', 'theirs', 'themselves']
 
 
-
+The main method used to degender pronouns is `.degender()`.
 
 ```python
 texts = ["She is a girl.",
