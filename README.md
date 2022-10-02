@@ -16,14 +16,14 @@ Caution: This package does not consider verbs in the sentence, so you will likel
 
 
 ```python
-from degender_pronoun import degenderer
+from degender_pronoun import degenderizer
 ```
 
 `.getDictionary()` method is used to retrieve the current used pronoun dictionary. It is ordered like [he/she, him/her, his/her, his/hers, himself/herself]. The default dictionary is ['they', 'them', 'their', 'theirs', 'themselves'].
 
 
 ```python
-D = degenderer()
+D = degenderizer()
 D.getDictionary()
 ```
 
