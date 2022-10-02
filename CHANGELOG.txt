@@ -1,0 +1,17 @@
+Change Log
+============
+0.1.3 (10/01/2022)
+ — — — — — — — — — -
+- Fix a bug about "he or she".
+
+0.1.2 (10/01/2022)
+ — — — — — — — — — -
+- Fix a bug when 'her' appears in the end.
+
+0.1.1 (10/01/2022)
+ — — — — — — — — — -
+- Fix bugs.
+
+0.1.0 (10/01/2022)
+ — — — — — — — — — -
+- First Release
