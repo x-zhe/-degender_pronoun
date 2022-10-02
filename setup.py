@@ -6,8 +6,7 @@ classifiers = ["Development Status :: 5 - Production/Stable",
                 "Programming Language :: Python :: 3",
                 ]
 
-with open("README.md", "r", encoding='utf-8') as f:
-    long_description = f.read()
+long_description = r"See https://github.com/xiangzheng2021/-degender_pronoun."
 
 setup(
     name="degender_pronoun",
@@ -19,7 +18,7 @@ setup(
     author_email="xiangzheng2021@outlook.com",
     license="MIT",
     classifiers=classifiers,
-    keywords="",
+    keywords="https://github.com/xiangzheng2021/-degender_pronoun",
     packages=find_packages(),
     py_modules=['degender_pronoun']
 )
